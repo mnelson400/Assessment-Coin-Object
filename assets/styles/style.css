@@ -1,3 +1,20 @@
 * {
     box-sizing: border-box;
 }
+
+.main {
+    position: relative;
+    margin: auto;
+    width: 400px;
+    height: 750px;
+}
+
+.list {
+    text-align: center;
+}
+
+.button {
+    color: red;
+    background-color: yellow;
+    font-size: 17px;
+}
